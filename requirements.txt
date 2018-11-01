@@ -4,5 +4,6 @@ coverage
 codecov
 pylint
 twine
+wheel
 
 -e .
