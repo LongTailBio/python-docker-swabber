@@ -1,0 +1,8 @@
+--index-url https://pypi.python.org/simple
+
+coverage
+codecov
+pylint
+twine
+
+-e .
