@@ -9,7 +9,7 @@ from setuptools.command.install import install
 from docker_swabber import __version__
 
 
-dependencies = ['click']
+dependencies = ['click', 'semantic_version']
 
 
 class VerifyVersionCommand(install):
